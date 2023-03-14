@@ -1,9 +1,6 @@
 # Author: Clint Lohr
-# Assignment 6: Undirected Graph
-# Description: A class to implement an undirected graph. Vertices and their connected vertices are stored using an
-# adjacency list in the form of a dictionary. The class contains methods for adding and removing edges and vertexes,
-# checking the graph for valid paths, connected components, cycles, and performs depth-first searches and breadth-first
-# searches.
+# Undirected Graph
+
 
 import heapq
 from collections import deque
